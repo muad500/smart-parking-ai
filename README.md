@@ -2,7 +2,8 @@
 
 Real-time parking detection through your browser camera. Open the app, point your camera at a parking area, and watch AI track which spaces are free.
 
-No mobile app to install. No external services needed. Just open the URL and allow camera access. **Live Link** : https://smart-parking-ai-ozuf.onrender.com
+No mobile app to install. No external services needed. Just open the URL and allow camera access. 
+**Live Link** : https://smart-parking-ai-ozuf.onrender.com
 
 ![Status](https://img.shields.io/badge/status-live-success) ![Python](https://img.shields.io/badge/python-3.10+-blue) ![mAP](https://img.shields.io/badge/mAP@50-99.4%25-brightgreen) ![License](https://img.shields.io/badge/license-MIT-green)
 
